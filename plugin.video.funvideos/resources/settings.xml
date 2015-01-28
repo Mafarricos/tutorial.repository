@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="General">
+        <setting label="General" type="lsep" />
+        <setting id="cachesites" type="bool" label="Guardar Cache dos sites" default="true" />
+    </category>
+    <category label="E-Mail">
+		<setting id="server" type="select" label="Servidor" values="Gmail|Hotmail" default="Gmail"/>
+		<setting id="fromemail" type="text" label="E-Mail de Envio" default=""/>
+		<setting id="password" type="text" option="hidden" label="Password E-mail" default=""/>
+		<setting id="toemail" type="text" label="E-Mails destino separados por virgulas" default=""/>		
+    </category>	
+</settings>

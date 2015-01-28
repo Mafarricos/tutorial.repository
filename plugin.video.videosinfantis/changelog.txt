@@ -1,0 +1,28 @@
+Versão 0.4.4 - 2014.08.28
+Alteração na API youtube para o kids youtube
+
+Versão 0.4.3 - 2014.06.27
+Removido a fonte mais.uol.com.br
+Versão 0.4.2 - 2014.02.18
+Suporte aos videos do site zapkolik.com 
+Versão 0.4.0 - 2014.01.31
+Nova Secção:
+	- Kids Youtube (inclusão de canais do youtube)
+		- Possibilidade de criar playlists e visualizar as playlists dos canais.
+Versão 0.3.0 - 2014.01.29
+Suporte para os sites:
+	- http://videosinfantis.pt
+	- http://videos.ogatodasbotas.com
+	- http://www.canalpanda.pt (créditos para enen92)
+Versão 0.0.6
+* Suporte ao vimeo e melhor suporte ao DailyMotion
+Version 0.0.4
+* Minor Corrections to solve urls
+Version 0.0.3
+* Check if site is online
+* Support to Youtube, VideoLog, DailyMotion and Sapo
+* Minor Corrections
+Version 0.0.2
+* Minor Corrections
+Version 0.0.1
+* First addon release

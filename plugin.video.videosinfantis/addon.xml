@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.videosinfantis" name="Videos Infantis" version="0.4.4" provider-name="Mafarricos">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.urlresolver" version="2.1.2"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="main.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <language>en</language>
+    <platform>all</platform>
+    <summary lang="en">Videos Infantis</summary>
+    <description lang="en">
+	Visualização dos videos dos sites: 
+	- http://videosinfantis.pt
+	- http://videos.ogatodasbotas.com
+	- http://www.canalpanda.pt (créditos para enen92) 
+	- Kids Youtube (Canais do Youtube)
+	Todo o conteúdo é da autoria dos site, qualquer problema com direitos de autor deve ser dirigido aos mesmos.
+	</description>
+    <platform>all</platform>
+  </extension>
+</addon>

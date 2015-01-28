@@ -1,0 +1,51 @@
+Version 0.3.1
+- E-Mail integration via Gmail/Hotmail
+
+Version 0.3.0
+- 9gag fix
+- new section to the videos
+Version 0.2.9A
+- downgrade gotham
+Version 0.2.9
+- kodi fix
+Version 0.2.8
+- small fix no page error
+Version 0.2.7
+- added http://www.vamoslaportugal.com
+Version 0.2.6
+- added http://www.epalol.com
+- fix to sites unblocking content with facebook like
+Version 0.2.5
+- code cleanup and redone.
+Version 0.2.4
+- added http://www.break.com
+Version 0.2.3
+- android fix fetching 9gag
+Version 0.2.2
+ - android fix
+Version 0.2.1
+ - cache improvement
+Version 0.2.0
+ - BestOfYoutube added
+ - cache videos
+Version 0.1.0
+ - 9gag added
+Version 0.0.4
+	Unique videos fix 
+Version 0.0.3
+	Android XBMC Fix
+Version 0.0.2
+Sites added:
+	http://www.tabonito.pt
+	http://www.tafixe.com
+	http://vitaminl.tv
+	http://www.tabrutal.pt
+	http://www.jacarebanguela.com.br
+	http://www.galofrito.com.br
+	http://www.viralviralvideos.com
+	http://obutecodanet.ig.com.br
+	http://www.embrulha.com
+	http://loladatuga.com
+	http://tugavideos.com
+Version 0.0.1
+* First addon release

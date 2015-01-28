@@ -1,0 +1,16 @@
+{"prettyname":"9GAG","site":"http://9gag.tv","frame":"9gag","enabled":"true","pagination":"?r[LJEGX]=","starton":"1"}
+{"prettyname":"VitaminL","site":"http://vitaminl.tv","frame":"vit","enabled":"true","pagination":"/new/","starton":"1"}
+{"prettyname":"BestofYoutube","site":"http://bestofyoutube.com","frame":"true","enabled":"true","pagination":"/index.php?page=","starton":"1"}
+{"prettyname":"TaBonito","site":"http://www.tabonito.pt","frame":"true","enabled":"true","pagination":"/inicio?created=All&pesquisa=&sort_bef_combine=created%20DESC&sort_order=DESC&sort_by=created&page=","starton":"0"}
+{"prettyname":"JacareBanguela","site":"http://www.jacarebanguela.com.br","frame":"true","enabled":"true","pagination":"/page/","starton":"0"}
+{"prettyname":"GaloFrito","site":"http://www.galofrito.com.br","frame":"true","enabled":"true","pagination":"/page/","starton":"1"}
+{"prettyname":"ViralViralVideos","site":"http://www.viralviralvideos.com","frame":"true","enabled":"true","pagination":"/page/","starton":"1"}
+{"prettyname":"EpaLOL","site":"http://www.epalol.com","frame":"true","enabled":"true","pagination":"/page/","starton":"1"}
+{"prettyname":"oButecoDaNet","site":"http://obutecodanet.ig.com.br","frame":"true","enabled":"true","pagination":"/index.php/page/","starton":"1"}
+{"prettyname":"TaFixe","site":"http://www.tafixe.com","frame":"false","enabled":"true","startsection":"<div class=\"span6\">\\s+.+?<a href=\"","endsection":"\"","pagination":"/page/","starton":"1"}
+{"prettyname":"TaBrutal","site":"http://www.tabrutal.pt","frame":"false","enabled":"true","startsection":"<h4 class=\"entry-title\"><a href=\"","endsection":"\">","pagination":"/page/","starton":"0"}
+{"prettyname":"Embrulha","site":"http://www.embrulha.com","frame":"false","enabled":"true","startsection":"<h2><a href=\\'","endsection":"/\\'","pagination":"/page/","starton":"1"}
+{"prettyname":"TugaVideos","site":"http://tugavideos.com","frame":"false","enabled":"true","startsection":"</div>\\s+<h2><a href=\"","endsection":"\"","pagination":"/page/","starton":"1"}
+{"prettyname":"loladatuga","site":"http://loladatuga.com","frame":"false","enabled":"true","startsection":"<div class=\"post-thumbnail\">\\s+<a href=\"","endsection":"\"","pagination":"/page/","starton":"1"}
+{"prettyname":"VamosLaPortugal","site":"http://www.vamoslaportugal.com/videos","frame":"false","enabled":"true","startsection":"<h2 class=\"title\">\\s+<a href=\"","endsection":"\"","pagination":"/page/","starton":"1"}
+{"prettyname":"Break","site":"http://www.break.com","frame":"break","enabled":"true","pagination":"/content/GetContentTimeStreamByChannelIdAndFilterBy?channelId=1&filterBy=videos&pageNum=","starton":"1"}
